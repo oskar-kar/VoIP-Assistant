@@ -13,8 +13,8 @@ Opis projektu:
 Wykorzystanie:
 - Aplikację i bazę danych należy pobrać.
 - Aplikacja i baza danych nie wymaga instalacji.
-- Aby skorzystać z aplikacji należy uruchomić plik wykonywalny „VoIPAssistant.exe”.
-- W celu poprawnego działania aplikacji pliki „VoIPAssistant.exe” oraz „SQLite_voip.db” muszą znajdować się w tym samym folderze.
+- Aby skorzystać z aplikacji należy uruchomić plik wykonywalny „AsystentVoIP.exe”.
+- W celu poprawnego działania aplikacji pliki „AsystentVoIP.exe” oraz „SQLite_voip.db” muszą znajdować się w tym samym folderze.
 - Do uruchomienia aplikacji potrzebne jest wcześniejsze zainstalowanie środowiska Java (Java 8 Update 121 lub nowsza oraz Java Development Kit 15.0.1 lub nowsza).
 
 ## Database and application supporting the work of VoIP system designer (SQLite + Java).
@@ -30,6 +30,6 @@ Project description:
 Usage:
 - Application and database need to be downloaded.
 - Application and database do not require installation.
-- In order to use the application use executable file "VoIPAssistant.exe".
-- For the application to work correctly, "VoIPAssistant.exe" and "SQLite_voip.db" files need to be placed in the same folder.
+- In order to use the application use executable file "AsystentVoIP.exe".
+- For the application to work correctly, "AsystentVoIP.exe" and "SQLite_voip.db" files need to be placed in the same folder.
 - To start the application, Java 8 Update 121 (or newer) and Java Development Kit 15.0.1 (or newer) need to be installed first.
